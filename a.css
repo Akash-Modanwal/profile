@@ -396,9 +396,7 @@ footer{
 
 @media screen and (max-width: 700px){
   
-  body{
-    background-size: 600% 600%;
-  }
+  
   .box{
     align-items: center;
     width: 75%;
